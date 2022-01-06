@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "project-test-deb01"
+  },
+  "targets": {
+    "project-test-deb01": {
+      "hosting": {
+        "angular-ssr2-test": [
+          "my-angular-ssr2-test"
+        ]
+      }
+    }
+  }
+}
